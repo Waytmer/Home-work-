@@ -1,0 +1,14 @@
+﻿  code.cpp
+c:\users\админ\source\repos\code\code\code.cpp(71): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\админ\source\repos\code\code\code.cpp(352): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\админ\source\repos\code\code\code.cpp(816): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\админ\source\repos\code\code\code.cpp(175): warning C4101: c1: неиспользованная локальная переменная
+c:\users\админ\source\repos\code\code\code.cpp(175): warning C4101: a1: неиспользованная локальная переменная
+c:\users\админ\source\repos\code\code\code.cpp(175): warning C4101: b1: неиспользованная локальная переменная
+c:\users\админ\source\repos\code\code\code.cpp(457): warning C4101: s: неиспользованная локальная переменная
+  Создание кода
+  70 of 82 functions (85.4%) were compiled, the rest were copied from previous compilation.
+    63 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  code.vcxproj -> C:\Users\Админ\source\repos\code\x64\Release\code.exe

@@ -1,0 +1,11 @@
+﻿  code.cpp
+c:\users\админ\source\repos\code\code\code.cpp(117): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\админ\source\repos\code\code\code.cpp(398): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\админ\source\repos\code\code\code.cpp(879): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\админ\source\repos\code\code\code.cpp(949): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\админ\source\repos\code\code\code.cpp(951): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\админ\source\repos\code\code\code.cpp(221): warning C4101: c1: неиспользованная локальная переменная
+c:\users\админ\source\repos\code\code\code.cpp(221): warning C4101: a1: неиспользованная локальная переменная
+c:\users\админ\source\repos\code\code\code.cpp(221): warning C4101: b1: неиспользованная локальная переменная
+c:\users\админ\source\repos\code\code\code.cpp(510): warning C4101: s: неиспользованная локальная переменная
+  code.vcxproj -> C:\Users\Админ\source\repos\code\x64\Debug\code.exe
