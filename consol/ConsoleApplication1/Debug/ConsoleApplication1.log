@@ -1,4 +1,0 @@
-﻿  ConsoleApplication1.cpp
-c:\users\админ\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-c:\users\админ\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(37): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-  ConsoleApplication1.vcxproj -> C:\Users\Админ\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
