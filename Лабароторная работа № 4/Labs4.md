@@ -31,8 +31,8 @@
 #### Ход работы
 
 1. Вспомогательный файл
-    ```cpp
-    #include <iostream>
+```cpp
+#include <iostream>
 #include <ctime>
 #include "helpfile.h"
 using namespace std;
@@ -369,10 +369,10 @@ if(game->status==PLAY){
 else return true;
 }
 }
-    ```
+```
 2. Файл реализующий игру 
-    ```CPP
-   #include <iostream>
+```CPP
+#include <iostream>
 #include <ctime>
 #include "helpfile.h"
 using namespace std;
@@ -420,10 +420,10 @@ game::Game game1 = game::initGame(userChar);
                }
                std::cout << std::endl;
 
-    ```
+  ```
     
 3. Заголовочный файл.
-    ```h
+ ```h
 #ifndef HELPFILE_H
 #define HELPFILE_H
 namespace game {
@@ -454,7 +454,7 @@ namespace game {
 }
 #endif // HELPFILE_H
 
-    ```
+```
    
 #### Ввывод
 
