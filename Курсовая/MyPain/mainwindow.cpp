@@ -101,7 +101,7 @@ MainWindow::~MainWindow()
 }
 
 void MainWindow::slotInfection(QGraphicsItem *item) {
- /* Получив сигнал от мухи, перебираем список яблок и удаляем найденное */
+ /* Получив сигнал от агента, перебираем список и инфицируем найденное */
  foreach (QGraphicsItem *agent, agents) {
         if (agent == item) {
             Agent *A = qgraphicsitem_cast <Agent *> (item);
