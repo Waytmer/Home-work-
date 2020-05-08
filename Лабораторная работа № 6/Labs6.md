@@ -214,7 +214,7 @@ int main() {
 
 3. Скриншот:
 <center>
-<img src="Screnshot\1.PNG"><br>
+<img src="Screnshot\1.png"><br>
 Рис. 1. Заполненый шаблон</center>
 
 **Вывод:** Я ознакомился с написанием сервера и клиета, сервисом openweathermap.org, а также Json.
