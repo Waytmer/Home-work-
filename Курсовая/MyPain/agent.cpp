@@ -38,7 +38,7 @@ static qreal normalizeAngle(qreal angle)
 }
 void Agent::slotGameTimer()
 {
-         // автоматическая рандомизация
+         
 
     if(GameState==Infection){
     QList<QGraphicsItem *> foundItems = scene()->items(QPolygonF()
@@ -50,7 +50,7 @@ void Agent::slotGameTimer()
 
     foreach (QGraphicsItem *item, foundItems) { // Проверяем все элементы
         if (item == this){ continue;}
-        else{// Сама с собой муха не сталкивается
+        else{// Сама с собой  не сталкивается
      emit signalCheckItem(item);} // дл остальных объектов выслыаем сигнал
         }
     }
